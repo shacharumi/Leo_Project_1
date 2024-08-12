@@ -1,0 +1,26 @@
+# Uncomment the next line to define a global platform for your project
+  platform :ios, '16.0'
+  use_frameworks!
+target 'STYLiSH' do
+    pod 'Kingfisher'
+    pod 'MJRefresh'
+    pod 'Alamofire', '~> 5.4'
+    pod 'UIScrollView-InfiniteScroll'
+    pod 'ZHRefresh' 
+    pod 'IQKeyboardManagerSwift'
+    pod 'StatusAlert'
+
+ end
+  target 'STYLiSHTests' do
+    platform :ios, '16'
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'STYLiSHUITests' do
+    platform :ios, '16.0'
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+

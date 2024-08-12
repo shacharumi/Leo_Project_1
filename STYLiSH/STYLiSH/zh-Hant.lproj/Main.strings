@@ -1,0 +1,81 @@
+
+/* Class = "UINavigationItem"; title = "購物車"; ObjectID = "0Jm-lJ-NYV"; */
+"0Jm-lJ-NYV.title" = "購物車";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "47Q-8U-bed"; */
+"47Q-8U-bed.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "8hb-rY-zbk"; */
+"8hb-rY-zbk.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9R6-ND-jAJ"; */
+"9R6-ND-jAJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9mN-SA-qys"; */
+"9mN-SA-qys.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "男裝"; ObjectID = "DUB-Ck-KYc"; */
+"DUB-Ck-KYc.configuration.title" = "男裝";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DUB-Ck-KYc"; */
+"DUB-Ck-KYc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "薄度"; ObjectID = "Dzd-5x-HBi"; */
+"Dzd-5x-HBi.text" = "薄度";
+
+/* Class = "UINavigationItem"; title = "結帳"; ObjectID = "HoM-31-aht"; */
+"HoM-31-aht.title" = "結帳";
+
+/* Class = "UINavigationItem"; title = "型錄"; ObjectID = "IiZ-Zr-srH"; */
+"IiZ-Zr-srH.title" = "型錄";
+
+/* Class = "UILabel"; text = "AKA小安老師"; ObjectID = "Kyy-zK-rd9"; */
+"Kyy-zK-rd9.text" = "AKA小安老師";
+
+/* Class = "UILabel"; text = "個人"; ObjectID = "OhL-iJ-TtV"; */
+"OhL-iJ-TtV.text" = "個人";
+
+/* Class = "UILabel"; text = "NT$2140"; ObjectID = "Ojl-nJ-Ips"; */
+"Ojl-nJ-Ips.text" = "NT$2140";
+
+/* Class = "UIButton"; configuration.title = "配飾"; ObjectID = "SR9-dk-YsJ"; */
+"SR9-dk-YsJ.configuration.title" = "配飾";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SR9-dk-YsJ"; */
+"SR9-dk-YsJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UxC-bp-VN5"; */
+"UxC-bp-VN5.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "登出"; ObjectID = "VEn-xB-jwh"; */
+"VEn-xB-jwh.title" = "登出";
+
+/* Class = "UINavigationItem"; title = "結帳結果"; ObjectID = "Zly-pa-PpN"; */
+"Zly-pa-PpN.title" = "結帳結果";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b3K-3u-7KX"; */
+"b3K-3u-7KX.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "女裝"; ObjectID = "dh6-rl-SUM"; */
+"dh6-rl-SUM.configuration.title" = "女裝";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dh6-rl-SUM"; */
+"dh6-rl-SUM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "厚度"; ObjectID = "gFF-fX-r15"; */
+"gFF-fX-r15.text" = "厚度";
+
+/* Class = "UILabel"; text = "活力花紋長筒牛仔褲"; ObjectID = "iY8-t2-LGL"; */
+"iY8-t2-LGL.text" = "活力花紋長筒牛仔褲";
+
+/* Class = "UILabel"; text = "厚實毛呢格子外套"; ObjectID = "mSj-kS-d0b"; */
+"mSj-kS-d0b.text" = "厚實毛呢格子外套";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "qZX-sp-UBq"; */
+"qZX-sp-UBq.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "t6l-qq-T6c"; */
+"t6l-qq-T6c.title" = "Item";
+
+/* Class = "UILabel"; text = "查看全部 >"; ObjectID = "uFz-8A-YaY"; */
+"uFz-8A-YaY.text" = "查看全部 >";
